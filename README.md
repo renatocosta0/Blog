@@ -33,5 +33,5 @@ Agradecimentos:
 Agradeço por explorar o projeto de Layout de Blog Responsivo. Espero que este exemplo sirva como inspiração para criar layouts de blog semânticos e atraentes. Para dúvidas ou sugestões, sinta-se à vontade para abrir uma issue.
 
 Autor:
-[Renato]
+[Renato Costa]
 
